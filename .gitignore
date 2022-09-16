@@ -1,6 +1,7 @@
 *
-!.gitignore
-!*.dll
 !*.cs
-!*.md
 !*.csproj
+!*.dll
+!*.md
+!.gitignore
+!ports.csv

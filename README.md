@@ -1,6 +1,6 @@
 SMCTest - Valve island proof-of-concept
 ===========================================
-This is a dotnet 6.0 program to test out Ethernet/IP controll of the SMC valve island.
+This is a dotnet 6.0 program to test out Ethernet/IP control of the SMC valve island.
 
 Dependencies
 ------------
@@ -9,7 +9,7 @@ Dependencies
 
 Compilation
 -----------
-By default, this program uses 10.32.100.121 as the target IP.
+By default, this program uses 10.32.100.108 as the target IP.
 This can be edited in the source code, or optionally specified by command line argument.
 
 Compile:

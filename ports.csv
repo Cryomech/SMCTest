@@ -1,0 +1,19 @@
+port,result
+135,connected
+139,connected
+445,conn reset by peer
+5040,timeout
+5357,unknown exception
+5700,unknown exception
+7680,unknown exception
+14502,timeout
+14506,conn reset by peer
+14508,conn reset by peer
+49664,connected
+49665,connected
+49666,connected
+49667,connected
+49670,connected
+49671,connected
+49677,connected
+49757,connected
